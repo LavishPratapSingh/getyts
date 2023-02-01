@@ -1,0 +1,1 @@
+prerequisites are bs4, requests,lxml
